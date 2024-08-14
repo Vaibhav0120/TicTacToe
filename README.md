@@ -46,17 +46,24 @@ Connect your Android device or start an emulator.
 Click the Run button in Android Studio.
 
 <h2 align="center">Code Structure</h2>
-✨MainActivity.java: Contains the main UI logic for the game.
-✨GameLogic.java: Handles the core game mechanics, such as checking for a win or draw.
-✨Utils.java: Includes utility functions used throughout the app.
-✨activity_main.xml: Defines the layout of the game board.
+<h4 align="left">✨MainActivity.java: </h4>
+<p align="left">Contains the main UI logic for the game.</p>
+
+<h4 align="left">✨GameLogic.java: </h4>
+<p align="left">Handles the core game mechanics, such as checking for a win or draw.</p>
+
+<h4 align="left">✨Utils.java: </h4>
+<p align="left">Includes utility functions used throughout the app.</p>
+
+<h4 align="left">✨activity_main.xml: </h4>
+Defines the layout of the game board.
 
 <h2 align="center">How to Play</h2>
-1. Players take turns tapping on an empty square to place their mark (X or O).
-2. The game will automatically detect when a player wins or when the game ends in a draw.
-3. To start a new game, press the "Restart" button.
+<p align="left">1. Players take turns tapping on an empty square to place their mark (X or O).</p>
+<p align="left">2. The game will automatically detect when a player wins or when the game ends in a draw.</p>
+<p align="left">3. To start a new game, press the "Restart" button.</p>
 
 <h2 align="center">Contributing</h2>
-This is a personal learning project for me.
-Please feel free to fork this repo. Pull request to submit more programs.
-Made By: Vaibhav Sharma
+<p align="center">This is a personal learning project for me.</p>
+<p align="center">Please feel free to fork this repo. Pull request to submit more programs.</p>
+<p align="center">Made By: Vaibhav Sharma</p>
