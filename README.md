@@ -20,7 +20,7 @@
 <h2 align="center">Screenshots</h2>
 
 <p float="left" align="center">
-    <img src="https://github.com/user-attachments/assets/9cc13df0-d2e2-437f-9d76-9120ea78ce68" width="100px"/>
+    <img src="https://github.com/user-attachments/assets/9cc13df0-d2e2-437f-9d76-9120ea78ce68" width="1000px"/>
     <img src="https://github.com/user-attachments/assets/b9772a13-11dc-47ce-90a1-2744b3166585"/> 
     <img src="https://github.com/user-attachments/assets/087c0fe2-114d-4c18-b2d3-eb5e4ebc8830"/>
     <img src="https://github.com/user-attachments/assets/52f4cae6-e56e-4da6-b31e-0168fd3ce351"/>
