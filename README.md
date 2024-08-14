@@ -37,7 +37,7 @@ Defines the layout of the game board.
 <p align="left"><strong>1. Clone the repository:</strong></p>
 
 ```
-git clone https://github.com/Vaibhav0120/TicTacToe.git
+https://github.com/Vaibhav0120/TicTacToe.git
 ```
 
 <p align="left"><strong>2. Open the project in Android Studio:</strong></p>
