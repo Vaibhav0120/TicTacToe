@@ -27,22 +27,22 @@
 </p>
 
 <h2 align="center">Installation</h2>
-<p align="left">1. Clone the repository:</p>
+<p align="left"><strong>1. Clone the repository:</strong></p>
 
 ```
 git clone https://github.com/Vaibhav0120/TicTacToe.git
 ```
 
-<p align="left">2. Open the project in Android Studio:</p>
+<p align="left"><strong>2. Open the project in Android Studio:</strong></p>
 
-<p align="left">    1. Open Android Studio.</p>
-<p align="left">    2. Click on File -> Open.</p>
-<p align="left">    3. Select the TicTacToeApp directory and click OK.</p>
+<p align="left">Open Android Studio.</p>
+<p align="left">Click on File -> Open.</p>
+<p align="left">Select the TicTacToeApp directory and click OK.</p>
 
-<p align="left">3. Build and run the app:</p>
+<p align="left" ><strong>3. Build and run the app:</strong></p>
 
-<p align="left">    1. Connect your Android device or start an emulator.</p>
-<p align="left">    2. Click the Run button in Android Studio.</p>
+<p align="left">Connect your Android device or start an emulator.</p>
+<p align="left">Click the Run button in Android Studio.</p>
 
 <h2 align="center">Code Structure</h2>
 <h4 align="left">✨MainActivity.java: </h4>
