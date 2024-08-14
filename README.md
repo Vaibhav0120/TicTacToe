@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Tic-Tac-Toe Android App</h1>
 <h3 align="center">This is a simple Tic-Tac-Toe game built using Java in Android Studio. The app allows two players to play the classic game of Tic-Tac-Toe on a 3x3 grid.</h3>
 
@@ -26,14 +29,20 @@
 <h4 align="left">✨MainActivity.java: </h4>
 <p align="left">Contains the main UI logic for the game.</p>
 
+<h4 align="left">✨MainActivity.java: </h4>
+<p align="left">Contains the main UI logic for the game.</p>
+
 <h4 align="left">✨GameLogic.java: </h4>
 <p align="left">Handles the core game mechanics, such as checking for a win or draw.</p>
 
 <h4 align="left">✨Utils.java: </h4>
 <p align="left">Includes utility functions used throughout the app.</p>
 
+<h4 align="left">✨activity_add_players.xml: </h4>
+<p align="left">Defines the layout of the first page and player naming section</p>
+
 <h4 align="left">✨activity_main.xml: </h4>
-Defines the layout of the game board.
+<p align="left">Defines the layout of the game board.</p>
 
 <!-- --------------------------------------  -->
 
