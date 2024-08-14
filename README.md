@@ -27,16 +27,10 @@
 <p align="left">Contains the code for First page for names of players for the game.</p>
 
 <h4 align="left">✨MainActivity.java: </h4>
-<p align="left">Contains the main UI logic for the game.</p>
+<p align="left">Contains the main logic for the game.</p>
 
-<h4 align="left">✨MainActivity.java: </h4>
-<p align="left">Contains the main UI logic for the game.</p>
-
-<h4 align="left">✨GameLogic.java: </h4>
-<p align="left">Handles the core game mechanics, such as checking for a win or draw.</p>
-
-<h4 align="left">✨Utils.java: </h4>
-<p align="left">Includes utility functions used throughout the app.</p>
+<h4 align="left">✨ResultDialog.java: </h4>
+<p align="left">Contains the code for result declaration </p>
 
 <h4 align="left">✨activity_add_players.xml: </h4>
 <p align="left">Defines the layout of the first page and player naming section</p>
@@ -44,6 +38,8 @@
 <h4 align="left">✨activity_main.xml: </h4>
 <p align="left">Defines the layout of the game board.</p>
 
+<h4 align="left">✨Utils.java: </h4>
+<p align="left">Includes utility functions used throughout the app.</p>
 <!-- --------------------------------------  -->
 
 <h2 align="center">Installation</h2>
