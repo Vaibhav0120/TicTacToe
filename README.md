@@ -43,8 +43,8 @@ git clone https://github.com/Vaibhav0120/TicTacToe.git
 <p align="left"><strong>2. Open the project in Android Studio:</strong></p>
 
 <p align="left">Open Android Studio.</p>
-<p align="left">Click on File -> Open.</p>
-<p align="left">Select the TicTacToeApp directory and click OK.</p>
+<p align="left">Click on File -> New --> Project from Version Control</p>
+<p align="left">Paste Git Repo link that you copied in <strong>URL Section</strong> --> Clone</p>
 
 <p align="left" ><strong>3. Build and run the app:</strong></p>
 
