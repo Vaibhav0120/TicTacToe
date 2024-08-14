@@ -20,11 +20,10 @@
 <h2 align="center">Screenshots</h2>
 
 <p float="left" align="center">
-    <img src="https://github.com/Vaibhav0120/Raksha/assets/150184948/044a22d1-7f46-4cab-8dbe-5dc3a6419a87" width="19%" height="400px"/>
-    <img src="https://github.com/Vaibhav0120/Raksha/assets/150184948/f203d7f2-f700-4b96-a754-d0c18aacc72f" width="19%" height="400px"/> 
-    <img src="https://github.com/Vaibhav0120/Raksha/assets/150184948/5e687dbe-c1c8-4da9-bd7c-2d56963abbf4" width="19%" height="400px"/>
-    <img src="https://github.com/Vaibhav0120/Raksha/assets/150184948/e3f06d32-1df3-4e8d-878c-7846fc204a9d" width="19%" height="400px"/>
-    <img src="https://github.com/Vaibhav0120/Raksha/assets/150184948/7f493558-340a-4d04-9399-f7699f1b19d1" width="19%" height="400px"/>
+    <img src="https://github.com/user-attachments/assets/9cc13df0-d2e2-437f-9d76-9120ea78ce68"/>
+    <img src="https://github.com/user-attachments/assets/b9772a13-11dc-47ce-90a1-2744b3166585"/> 
+    <img src="https://github.com/user-attachments/assets/087c0fe2-114d-4c18-b2d3-eb5e4ebc8830"/>
+    <img src="https://github.com/user-attachments/assets/52f4cae6-e56e-4da6-b31e-0168fd3ce351"/>
 </p>
 
 <h2 align="center">Installation</h2>
