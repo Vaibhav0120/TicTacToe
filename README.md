@@ -38,6 +38,9 @@
 <h4 align="left">✨activity_main.xml: </h4>
 <p align="left">Defines the layout of the game board.</p>
 
+<h4 align="left">✨activity_result_dialog.xml: </h4>
+<p align="left">Defines the layout of the Result and Start Again button.</p>
+
 <h4 align="left">✨Utils.java: </h4>
 <p align="left">Includes utility functions used throughout the app.</p>
 <!-- --------------------------------------  -->
