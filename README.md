@@ -19,6 +19,10 @@
 
 <!-- --------------------------------------  -->
 <h2 align="center">Code Structure</h2>
+
+<h4 align="left">✨AddPlayers.java: </h4>
+<p align="left">Contains the code for First page for names of players for the game.</p>
+
 <h4 align="left">✨MainActivity.java: </h4>
 <p align="left">Contains the main UI logic for the game.</p>
 
